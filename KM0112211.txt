@@ -1,0 +1,9 @@
+Seats available 30
+
+Number of Passengers: 2
+
+Available seats after booking: 28
+
+Number of Passengers: 2
+
+Available seats after booking: 26
